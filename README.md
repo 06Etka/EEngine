@@ -22,4 +22,4 @@ Specify the project's license (e.g., MIT License).
 ## Contact
 
 - Email: etkaaga@gmail.com
-- Twitter: [@your_twitter_handle](https://twitter.com/labyxo)
+- Twitter: [@Etka06](https://twitter.com/labyxo)
