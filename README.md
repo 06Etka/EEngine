@@ -21,5 +21,5 @@ Specify the project's license (e.g., MIT License).
 
 ## Contact
 
-- Email: your.email@example.com
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: etkaaga@gmail.com
+- Twitter: [@your_twitter_handle](https://twitter.com/labyxo)
