@@ -1,6 +1,6 @@
 # EEngine
 
-[eengine logo](eengine.png)
+![eengine logo](eengine.png)
 
 ## Description
 EEngine is a game engine built using OpenGL, designed to make a game called [TBD] with a focus on high-quality game play while keeping the nostalgia on the top.
