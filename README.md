@@ -19,7 +19,7 @@ EEngine is a game engine built using OpenGL, designed to make a game called [TBD
 - JSON for Modern C++
 
 ## Roadmap
-- [] Add map editor to the game.
+- [x] Add map editor to the game.
 
 ## Contributing
 Contributions are welcome! If permission is given, contributors can participate in the development, make changes, or publish project derivatives under the [Apache License 2.0](#license).
