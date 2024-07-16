@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Etka\\source\\repos\\EEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{605AA7E6-3FD7-4386-9A53-90DEEDF5A7D2}|Engine\\Engine.vcxproj|C:\\Users\\Etka\\source\\repos\\EEngine\\Engine\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{605AA7E6-3FD7-4386-9A53-90DEEDF5A7D2}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Etka\\source\\repos\\EEngine\\Engine\\Main.cpp",
+              "RelativeDocumentMoniker": "Engine\\Main.cpp",
+              "ToolTip": "C:\\Users\\Etka\\source\\repos\\EEngine\\Engine\\Main.cpp",
+              "RelativeToolTip": "Engine\\Main.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T02:26:04.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
