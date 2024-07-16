@@ -1,7 +1,7 @@
 # EEngine
 
 ## Description
-EEngine is a game engine built using OpenGL, designed to make a game called [TBD] with a focus on high quality game play while keeping the nostaliga on the top.
+EEngine is a game engine built using OpenGL, designed to make a game called [TBD] with a focus on high-quality game play while keeping the nostalgia on the top.
 
 ## Features
 - **Static Props:** Support for static objects in the game world.
